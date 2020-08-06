@@ -1,0 +1,16 @@
+body {
+background-color: yellow;
+
+}
+
+h1 {
+text-color: purple
+text-align center; 
+}
+
+ol {
+text-color: blue;
+
+#sidebar {
+    float: left;
+}
